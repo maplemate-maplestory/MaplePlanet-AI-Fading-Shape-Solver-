@@ -8,23 +8,36 @@ Powered by **[MapleMate](https://maplemate.net)** — the one and only MapleStor
 
 <p align="left">
   <a href="https://maplemate.net"><img alt="Website" src="https://img.shields.io/badge/website-maplemate.net-ff5a5f?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <img alt="Price" src="https://img.shields.io/badge/price-%2430-brightgreen?style=for-the-badge">
-  <img alt="Server" src="https://img.shields.io/badge/server-MaplePlanet%20%EB%A9%94%EC%9D%B4%ED%94%8C%ED%94%8C%EB%9E%98%EB%8B%9B-blue?style=for-the-badge">
-  <img alt="Platform" src="https://img.shields.io/badge/platform-MapleStory%20World-purple?style=for-the-badge">
-  <img alt="AI Powered" src="https://img.shields.io/badge/AI-powered-blueviolet?style=for-the-badge">
+  <a href="#how-to-buy"><img alt="Price" src="https://img.shields.io/badge/price-%2430-brightgreen?style=for-the-badge"></a>
+  <a href="https://maplemate.net"><img alt="Server" src="https://img.shields.io/badge/server-MaplePlanet%20%EB%A9%94%EC%9D%B4%ED%94%8C%ED%94%8C%EB%9E%98%EB%8B%9B-blue?style=for-the-badge"></a>
+  <a href="https://maplemate.net"><img alt="Platform" src="https://img.shields.io/badge/platform-MapleStory%20World-purple?style=for-the-badge"></a>
+  <a href="https://maplemate.net"><img alt="AI Powered" src="https://img.shields.io/badge/AI-powered-blueviolet?style=for-the-badge"></a>
 </p>
 
 ---
 
 ## Demo
 
-[![MaplePlanet Fading Shape Solver — live](https://img.youtube.com/vi/Azj9P4WrhXA/hqdefault.jpg)](https://www.youtube.com/watch?v=Azj9P4WrhXA)
+> Click a thumbnail to watch the AI solve the Fading Shape lie detector.
 
-**Fading Shape Solver in action** — *MaplePlanet 메이플플래닛 페이딩 셰이프 거짓말 탐지기 솔버*
+[![MaplePlanet Fading Shape Solver — click to watch](https://img.youtube.com/vi/Azj9P4WrhXA/hqdefault.jpg)](https://www.youtube.com/watch?v=Azj9P4WrhXA)
 
-[![MaplePlanet Auto Bot Demo](https://img.youtube.com/vi/yoAyxn6v_V8/hqdefault.jpg)](https://www.youtube.com/watch?v=yoAyxn6v_V8)
+▶ **Fading Shape Solver in action** — *MaplePlanet 메이플플래닛 페이딩 셰이프 거짓말 탐지기 솔버*
 
-**MaplePlanet Auto Bot Demo**
+[![MaplePlanet Fading Shape Solver — second demo — click to watch](https://img.youtube.com/vi/HgSN0L9T61Y/hqdefault.jpg)](https://www.youtube.com/watch?v=HgSN0L9T61Y)
+
+▶ **Fading Shape Solver — second demo** — *메이플플래닛 페이딩 셰이프 거짓말 탐지기 솔버*
+
+<!--
+  WANT THE VIDEO TO PLAY INLINE ON GITHUB?
+  YouTube iframes don't work in GitHub READMEs, so embed an uploaded MP4 instead:
+    1) Edit this README on github.com (pencil icon) or open any issue/PR comment box.
+    2) Drag-and-drop your .mp4 into the text box. GitHub uploads it and inserts a URL like:
+         https://github.com/user-attachments/assets/XXXXXXXX-XXXX-XXXX.mp4
+    3) Paste that bare URL on its own line below — GitHub renders it as a real video player.
+  (A short .gif also auto-plays inline if you prefer.)
+-->
+
 
 ---
 
